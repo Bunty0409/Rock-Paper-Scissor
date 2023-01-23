@@ -28,7 +28,7 @@ body {
 
 .content {
     height: var(--content-height);
-    background-color: #50577A;
+    background-color: #f0f2f8;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -118,6 +118,11 @@ img {
     img {
     width: 80px;
     height: 80px;
+}
+.options {
+    display: flex;
+    justify-content: space-between;
+    margin: 48px;
 }
 
 }
